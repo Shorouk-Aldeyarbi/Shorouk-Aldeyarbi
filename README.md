@@ -13,8 +13,6 @@
 </p>
 
 ---
-##  Badges
-
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-purple?style=for-the-badge)
 ![Multi-Omics](https://img.shields.io/badge/Multi--Omics-blueviolet?style=for-the-badge)
 ![Pathway Analysis](https://img.shields.io/badge/Pathway-Analysis-success?style=for-the-badge)
