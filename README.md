@@ -76,13 +76,23 @@
 
                                               
 
-                                                            ## 🤝 Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorouk-aldeyarbi7/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2361DAFB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shorouk-Aldeyarbi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh_deyarbi@sci.psu.edu.eg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shorouk-aldeyarbi7/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Shorouk-Aldeyarbi">
+    <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-%2361DAFB.svg?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="mailto:sh_deyarbi@sci.psu.edu.eg">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-                                         ⭐ *“Turning biological complexity into interpretable systems”*
+<p align="center">⭐ <i>“Turning biological complexity into interpretable systems”</i></p>
 
 <!-- BOTTOM BORDER -->
 <p align="center">
