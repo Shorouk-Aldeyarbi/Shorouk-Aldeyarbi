@@ -1,19 +1,16 @@
-<!-- TOP BORDER -->
+<!-- 🔥 HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:fbc2eb,100:a6c1ee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Shorouk%20Aldeyarbi&fontSize=60&color=0:cc85d5,100:9706e5&animation=fadeIn&fontAlignY=38&desc=Computational%20Cancer%20Genomics%20|%20Multi-Omics%20Researcher&descAlignY=60&descSize=18"/>
 </p>
 
-<!-- HEADER -->
+<!-- ✨ ANIMATED HERO TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Shorouk%20Aldeyarbi&fontSize=55&color=0:cc85d5,100:9706e5"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=RNA-seq+Specialist;Multi-Omics+Integration;Pathway+Analysis;Cancer+Systems+Biology&center=true&width=500&height=45">
 </p>
 
-
-<!--  ANIMATED HERO TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computational+Cancer+Genomics;Multi-Omics+Researcher;RNA-seq+Specialist;Pathway+Analysis+Explorer&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:cc85d5,100:9706e5"/>
 </p>
-
 ---
 
 ##  Research Focus
@@ -70,15 +67,6 @@
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shorouk-Aldeyarbi&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorouk-Aldeyarbi&layout=compact&theme=radical" />
-</p>
-
----
-
 ##  Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shorouk-aldeyarbi7/  
@@ -101,5 +89,5 @@
 
 <!-- BOTTOM BORDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:fbc2eb,100:a6c1ee"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:fbc2eb,100:a6c1ee"/>
 </p>
