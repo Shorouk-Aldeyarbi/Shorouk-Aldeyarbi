@@ -1,21 +1,15 @@
-<!-- 🌸 ANIMATED TOP EFFECT -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:fbc2eb,100:a6c1ee&animation=twinkling"/>
-</p>
-
-<!-- 🌈 MAIN HEADER -->
+<!-- 🔥 HERO HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Shorouk%20Aldeyarbi&fontSize=65&color=0:cc85d5,100:9706e5&animation=fadeIn&fontAlignY=38&desc=Computational%20Cancer%20Genomics%20|%20Multi-Omics%20Researcher&descAlignY=60&descSize=20"/>
 </p>
 
-<!-- ✨ ANIMATED TEXT -->
+<!-- ✨ ANIMATED HERO TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=RNA-seq+Specialist;Multi-Omics+Integration;Pathway+Analysis;Cancer+Systems+Biology&center=true&width=500&height=45">
 </p>
 
-<!-- 🌈 COLORFUL DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:ff9a9e,25:fbc2eb,50:a6c1ee,75:cc85d5,100:9706e5"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:cc85d5,100:9706e5"/>
 </p>
 
 ##  Research Focus
