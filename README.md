@@ -74,11 +74,13 @@
 
 ---
 
-##                                                        Connect With Me
+##                                                        ## 🤝 Connect With Me
 
--                               💼 LinkedIn: https://www.linkedin.com/in/shorouk-aldeyarbi7/  
--                           🔬 ResearchGate: https://www.researchgate.net/profile/Shorouk-Aldeyarbi  
--                                           📧 Email: sh_deyarbi@sci.psu.edu.eg  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorouk-aldeyarbi7/)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2361DAFB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shorouk-Aldeyarbi)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh_deyarbi@sci.psu.edu.eg)
 
 ---
 
