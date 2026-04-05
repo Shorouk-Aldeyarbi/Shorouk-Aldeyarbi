@@ -12,6 +12,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:cc85d5,100:9706e5"/>
 </p>
 
+---
+##  Badges
+
+![RNA-seq](https://img.shields.io/badge/RNA--seq-purple?style=for-the-badge)
+![Multi-Omics](https://img.shields.io/badge/Multi--Omics-blueviolet?style=for-the-badge)
+![Pathway Analysis](https://img.shields.io/badge/Pathway-Analysis-success?style=for-the-badge)
+![R](https://img.shields.io/badge/R-Analysis-blue?style=for-the-badge)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Genomics-pink?style=for-the-badge)
+
+---
 ##  Research Focus
 
 - Decoding cancer signaling pathways through multi-omics integration  
@@ -71,16 +81,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/shorouk-aldeyarbi7/  
 - 🔬 ResearchGate: https://www.researchgate.net/profile/Shorouk-Aldeyarbi  
 - 📧 Email: sh_deyarbi@sci.psu.edu.eg  
-
----
-
-##  Badges
-
-![RNA-seq](https://img.shields.io/badge/RNA--seq-purple?style=for-the-badge)
-![Multi-Omics](https://img.shields.io/badge/Multi--Omics-blueviolet?style=for-the-badge)
-![Pathway Analysis](https://img.shields.io/badge/Pathway-Analysis-success?style=for-the-badge)
-![R](https://img.shields.io/badge/R-Analysis-blue?style=for-the-badge)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Genomics-pink?style=for-the-badge)
 
 ---
 
