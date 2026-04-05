@@ -20,7 +20,7 @@
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Genomics-pink?style=for-the-badge)
 
 ---
-##  Research Focus
+##                                                     Research Focus
 
 - Decoding cancer signaling pathways through multi-omics integration  
 - Identifying key regulatory drivers in transcriptomic and phosphoproteomic data  
@@ -28,7 +28,7 @@
 
 ---
 
-##  Current Work
+##                                                      Current Work
 
 - GPCR signaling in cancer progression  
 - RNA-seq & pathway-network integration  
@@ -36,9 +36,9 @@
 
 ---
 
-##  Flagship Pipeline
+##                                                    Flagship Pipeline
 
-###  Abdominal Cancer Pathway Network Analysis
+###                                         Abdominal Cancer Pathway Network Analysis
 - Multi-omics integration (RNA-seq + CNV + Phospho)  
 - Network reconstruction & clustering  
 - Pathway enrichment & biological interpretation  
@@ -48,9 +48,9 @@
 
 ---
 
-##  Tech Stack
+##                                                        Tech Stack
 
-###  Bioinformatics & Data
+###                                                 Bioinformatics & Data
 - RNA-seq Analysis  
 - Multi-Omics Integration  
 - Differential Gene Expression  
@@ -65,7 +65,7 @@
 
 ---
 
-##  Scientific Identity
+##                                                  Scientific Identity
 
 -  Systems Biology Perspective  
 -  Network-Based Thinking  
@@ -74,11 +74,11 @@
 
 ---
 
-##  Connect With Me
+##                                                        Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shorouk-aldeyarbi7/  
-- 🔬 ResearchGate: https://www.researchgate.net/profile/Shorouk-Aldeyarbi  
-- 📧 Email: sh_deyarbi@sci.psu.edu.eg  
+-                               💼 LinkedIn: https://www.linkedin.com/in/shorouk-aldeyarbi7/  
+-                           🔬 ResearchGate: https://www.researchgate.net/profile/Shorouk-Aldeyarbi  
+-                                           📧 Email: sh_deyarbi@sci.psu.edu.eg  
 
 ---
 
