@@ -92,7 +92,7 @@
 
 ---
 
-<p align="center">⭐ <i>“Turning biological complexity into interpretable systems”</i></p>
+<p align="center">⭐ <i>“Turning biological complexity into interpretable systems”</i></p> ⭐
 
 <!-- BOTTOM BORDER -->
 <p align="center">
